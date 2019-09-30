@@ -1,3 +1,5 @@
+<!-- https://help.github.com/articles/creating-a-default-community-health-file-for-your-organization -->
+
 # `.github/`
 
 This repository contains the default community files for other repositories on this [organization](https://help.github.com/articles/about-organizations).
